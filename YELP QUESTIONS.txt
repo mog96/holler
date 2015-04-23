@@ -1,0 +1,7 @@
+YELP QUESTIONS
+
+1. Do we really use MutableSets in Swift?
+2. Why isn't my searchbar showing up?
+3. What's the best way to implement the secitons? Store everything together in a giant, layered dictionary?
+
+4. What's the best way to handle the error when there's no results for a given mix of categories?
